@@ -1,4 +1,4 @@
-# Hi 👨🏻‍💻 I'm John Faber Flórez Vasco
+# Hi 👨🏻‍💻 I'm John Faber Flórez Vasco Fixed Issue 2.2
 
 # Module 2.2 Assignment
 
